@@ -65,6 +65,8 @@ We recommend the following inference frameworks (listed alphabetically) to serve
 
 - [Transformers](https://github.com/huggingface/transformers) - see [Transformers docs](https://huggingface.co/docs/transformers/model_doc/minimax_m3_vl).
 
+- [KTransformers](https://github.com/kvcache-ai/ktransformers) - see [KTransformers MiniMax-M3 tutorial](https://github.com/kvcache-ai/ktransformers/blob/main/doc/en/kt-kernel/MiniMax-M3-Tutorial.md).
+
 
 ### Inference Parameters
 
