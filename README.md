@@ -67,6 +67,7 @@ We recommend the following inference frameworks (listed alphabetically) to serve
 
 - [KTransformers](https://github.com/kvcache-ai/ktransformers) - see [KTransformers MiniMax-M3 tutorial](https://github.com/kvcache-ai/ktransformers/blob/main/doc/en/kt-kernel/MiniMax-M3-Tutorial.md).
 
+- [unsloth](https://unsloth.ai) - see [tutorial](https://unsloth.ai/docs/models/minimax-m3)
 
 ### Inference Parameters
 
