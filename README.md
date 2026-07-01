@@ -71,7 +71,7 @@ We recommend the following inference frameworks (listed alphabetically) to serve
 
 ### Inference Parameters
 
-We recommend the following parameters for best performance: `temperature=1.0`, `top_p=0.95`, `top_k=40`.
+We recommend the following parameters for best performance: `temperature=1.0`, `top_p=0.95`.
 
 ## Contact Us
 
